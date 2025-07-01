@@ -1,0 +1,383 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "title": "Getting Started with Spring Boot",
+    "body": "Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can 'just run'...",
+    "author": "John Smith",
+    "createdAt": "2024-03-15T10:30:00",
+    "updatedAt": "2024-03-15T10:30:00",
+    "tags": ["Spring Boot", "Java", "Tutorial", "Getting Started"],
+    "likes": 156,
+    "views": 2890,
+    "category": "Spring Framework",
+    "isPublished": true,
+    "featuredImageUrl": "https://example.com/images/spring-boot-intro.jpg",
+    "comments": [
+      "Great introduction to Spring Boot!",
+      "This helped me get started with my project",
+      "Could you add more details about application properties?"
+    ]
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "title": "RESTful Web Services Best Practices",
+    "body": "When designing RESTful APIs, it's important to follow established conventions and best practices...",
+    "author": "John Smith",
+    "createdAt": "2024-03-14T15:45:00",
+    "updatedAt": "2024-03-14T16:20:00",
+    "tags": ["REST", "API Design", "Web Services", "Best Practices"],
+    "likes": 234,
+    "views": 3150,
+    "category": "API Development",
+    "isPublished": true,
+    "featuredImageUrl": "https://example.com/images/rest-api.jpg",
+    "comments": [
+      "Very comprehensive guide!",
+      "Would love to see more examples"
+    ]
+  },
+  {
+    "id": 3,
+    "userId": 2,
+    "title": "Introduction to Microservices",
+    "body": "Microservices are a software development technique that structures an application as a collection of loosely coupled services...",
+    "author": "Emma Wilson",
+    "createdAt": "2024-03-13T09:15:00",
+    "updatedAt": "2024-03-13T14:20:00",
+    "tags": ["Microservices", "Architecture", "Cloud", "Design Patterns"],
+    "likes": 312,
+    "views": 4500,
+    "category": "Architecture",
+    "isPublished": true,
+    "featuredImageUrl": "https://example.com/images/microservices.jpg",
+    "comments": [
+      "Great overview of microservices!",
+      "How do you handle service discovery?"
+    ]
+  },
+  {
+    "id": 4,
+    "userId": 2,
+    "title": "Docker for Developers",
+    "body": "Docker containers wrap up software and its dependencies into a standardized unit for software development...",
+    "author": "Emma Wilson",
+    "createdAt": "2024-03-12T11:30:00",
+    "updatedAt": "2024-03-12T11:30:00",
+    "tags": ["Docker", "DevOps", "Containers", "Development"],
+    "likes": 289,
+    "views": 3800,
+    "category": "DevOps",
+    "isPublished": true,
+    "featuredImageUrl": "https://example.com/images/docker-dev.jpg",
+    "comments": [
+      "Finally understood Docker!",
+      "Could you explain Docker Compose next?"
+    ]
+  },
+  {
+    "id": 5,
+    "userId": 3,
+    "title": "Understanding JWT Authentication",
+    "body": "JSON Web Tokens are an open standard that defines a compact and self-contained way for securely transmitting information...",
+    "author": "Michael Chen",
+    "createdAt": "2024-03-11T13:45:00",
+    "updatedAt": "2024-03-11T15:20:00",
+    "tags": ["Security", "JWT", "Authentication", "Web Development"],
+    "likes": 198,
+    "views": 2750,
+    "category": "Security",
+    "isPublished": true,
+    "featuredImageUrl": "https://example.com/images/jwt-auth.jpg",
+    "comments": [
+      "Very clear explanation!",
+      "What about refresh tokens?"
+    ]
+  },
+  {
+    "id": 6,
+    "userId": 3,
+    "title": "Maven vs Gradle",
+    "body": "Both Maven and Gradle are popular build automation tools. Let's compare their features and use cases...",
+    "author": "Michael Chen",
+    "createdAt": "2024-03-10T16:30:00",
+    "updatedAt": "2024-03-10T16:30:00",
+    "tags": ["Maven", "Gradle", "Build Tools", "Java"],
+    "likes": 167,
+    "views": 2100,
+    "category": "Build Tools",
+    "isPublished": true,
+    "featuredImageUrl": "https://example.com/images/maven-gradle.jpg",
+    "comments": [
+      "Great comparison!",
+      "Gradle seems more flexible"
+    ]
+  },
+  {
+    "id": 7,
+    "userId": 4,
+    "title": "Clean Code Principles",
+    "body": "Writing clean code is essential for maintaining and scaling software projects. Here are the key principles...",
+    "author": "Sarah Brown",
+    "createdAt": "2024-03-09T10:15:00",
+    "updatedAt": "2024-03-09T11:45:00",
+    "tags": ["Clean Code", "Best Practices", "Software Development", "Code Quality"],
+    "likes": 423,
+    "views": 5600,
+    "category": "Software Development",
+    "isPublished": true,
+    "featuredImageUrl": "https://example.com/images/clean-code.jpg",
+    "comments": [
+      "Essential reading for every developer!",
+      "Could you add more real-world examples?"
+    ]
+  },
+  {
+    "id": 8,
+    "userId": 4,
+    "title": "Unit Testing with JUnit 5",
+    "body": "JUnit 5 is the next generation of JUnit. It provides powerful features for writing and running tests...",
+    "author": "Sarah Brown",
+    "createdAt": "2024-03-08T14:20:00",
+    "updatedAt": "2024-03-08T16:15:00",
+    "tags": ["Testing", "JUnit", "Java", "TDD"],
+    "likes": 245,
+    "views": 3200,
+    "category": "Testing",
+    "isPublished": true,
+    "featuredImageUrl": "https://example.com/images/junit5.jpg",
+    "comments": [
+      "Very helpful guide!",
+      "What about integration testing?"
+    ]
+  },
+  {
+    "id": 9,
+    "userId": 5,
+    "title": "Git Workflow Strategies",
+    "body": "Choosing the right Git workflow is crucial for team collaboration. Let's explore different strategies...",
+    "author": "David Lee",
+    "createdAt": "2024-03-07T09:30:00",
+    "updatedAt": "2024-03-07T10:45:00",
+    "tags": ["Git", "Version Control", "Collaboration", "Workflow"],
+    "likes": 334,
+    "views": 4100,
+    "category": "Version Control",
+    "isPublished": true,
+    "featuredImageUrl": "https://example.com/images/git-workflow.jpg",
+    "comments": [
+      "Great comparison of workflows!",
+      "We use GitFlow and it works well"
+    ]
+  },
+  {
+    "id": 10,
+    "userId": 5,
+    "title": "API Documentation with Swagger",
+    "body": "Swagger (OpenAPI) provides a powerful set of tools for documenting and testing REST APIs...",
+    "author": "David Lee",
+    "createdAt": "2024-03-06T11:20:00",
+    "updatedAt": "2024-03-06T13:15:00",
+    "tags": ["Swagger", "API", "Documentation", "OpenAPI"],
+    "likes": 278,
+    "views": 3600,
+    "category": "API Development",
+    "isPublished": true,
+    "featuredImageUrl": "https://example.com/images/swagger-docs.jpg",
+    "comments": [
+      "Swagger makes documentation so much easier!",
+      "How about comparing with other tools?"
+    ]
+  },
+  {
+    "id": 11,
+    "userId": 6,
+    "title": "Database Indexing Basics",
+    "body": "Understanding database indexing is crucial for optimizing query performance. Let's cover the fundamentals...",
+    "author": "Lisa Wang",
+    "createdAt": "2024-03-05T15:45:00",
+    "updatedAt": "2024-03-05T16:30:00",
+    "tags": ["Database", "Performance", "Indexing", "SQL"],
+    "likes": 189,
+    "views": 2800,
+    "category": "Database",
+    "isPublished": true,
+    "featuredImageUrl": "https://example.com/images/db-indexing.jpg",
+    "comments": [
+      "Finally understood indexing!",
+      "Could you cover composite indexes?"
+    ]
+  },
+  {
+    "id": 12,
+    "userId": 6,
+    "title": "Caching Strategies",
+    "body": "Implementing effective caching strategies can significantly improve application performance...",
+    "author": "Lisa Wang",
+    "createdAt": "2024-03-04T10:30:00",
+    "updatedAt": "2024-03-04T11:45:00",
+    "tags": ["Caching", "Performance", "Redis", "Architecture"],
+    "likes": 223,
+    "views": 3100,
+    "category": "Performance",
+    "isPublished": true,
+    "featuredImageUrl": "https://example.com/images/caching.jpg",
+    "comments": [
+      "Great overview of caching!",
+      "Redis vs Memcached comparison would be nice"
+    ]
+  },
+  {
+    "id": 13,
+    "userId": 7,
+    "title": "Logging Best Practices",
+    "body": "Proper logging is essential for monitoring and debugging applications in production...",
+    "author": "Tom Anderson",
+    "createdAt": "2024-03-03T13:15:00",
+    "updatedAt": "2024-03-03T14:20:00",
+    "tags": ["Logging", "Monitoring", "DevOps", "Best Practices"],
+    "likes": 156,
+    "views": 2400,
+    "category": "DevOps",
+    "isPublished": true,
+    "featuredImageUrl": "https://example.com/images/logging.jpg",
+    "comments": [
+      "Very practical advice!",
+      "What logging framework do you recommend?"
+    ]
+  },
+  {
+    "id": 14,
+    "userId": 7,
+    "title": "Error Handling in REST APIs",
+    "body": "Implementing consistent error handling is crucial for creating robust REST APIs...",
+    "author": "Tom Anderson",
+    "createdAt": "2024-03-02T16:45:00",
+    "updatedAt": "2024-03-02T17:30:00",
+    "tags": ["REST", "API", "Error Handling", "Best Practices"],
+    "likes": 201,
+    "views": 2900,
+    "category": "API Development",
+    "isPublished": true,
+    "featuredImageUrl": "https://example.com/images/error-handling.jpg",
+    "comments": [
+      "This helped standardize our error responses",
+      "Could you cover validation errors?"
+    ]
+  },
+  {
+    "id": 15,
+    "userId": 8,
+    "title": "CI/CD Pipeline Setup",
+    "body": "Setting up a continuous integration and deployment pipeline is essential for modern software development...",
+    "author": "Rachel Green",
+    "createdAt": "2024-03-01T09:20:00",
+    "updatedAt": "2024-03-01T10:15:00",
+    "tags": ["CI/CD", "DevOps", "Automation", "Jenkins"],
+    "likes": 289,
+    "views": 3800,
+    "category": "DevOps",
+    "isPublished": true,
+    "featuredImageUrl": "https://example.com/images/cicd.jpg",
+    "comments": [
+      "Great step-by-step guide!",
+      "How about GitHub Actions?"
+    ]
+  },
+  {
+    "id": 16,
+    "userId": 8,
+    "title": "Cloud Deployment Strategies",
+    "body": "Choosing the right cloud deployment strategy can impact your application's scalability and reliability...",
+    "author": "Rachel Green",
+    "createdAt": "2024-02-29T11:30:00",
+    "updatedAt": "2024-02-29T12:45:00",
+    "tags": ["Cloud", "AWS", "Deployment", "Architecture"],
+    "likes": 312,
+    "views": 4200,
+    "category": "Cloud Computing",
+    "isPublished": true,
+    "featuredImageUrl": "https://example.com/images/cloud-deploy.jpg",
+    "comments": [
+      "Very comprehensive overview!",
+      "Could you compare different cloud providers?"
+    ]
+  },
+  {
+    "id": 17,
+    "userId": 9,
+    "title": "Security Best Practices",
+    "body": "Implementing security best practices is crucial for protecting your application from vulnerabilities...",
+    "author": "Mark Wilson",
+    "createdAt": "2024-02-28T14:15:00",
+    "updatedAt": "2024-02-28T15:30:00",
+    "tags": ["Security", "Best Practices", "OWASP", "Cybersecurity"],
+    "likes": 445,
+    "views": 5800,
+    "category": "Security",
+    "isPublished": true,
+    "featuredImageUrl": "https://example.com/images/security.jpg",
+    "comments": [
+      "Essential security guidelines!",
+      "What about penetration testing?"
+    ]
+  },
+  {
+    "id": 18,
+    "userId": 9,
+    "title": "Performance Optimization Tips",
+    "body": "Optimizing application performance requires understanding various aspects of your system...",
+    "author": "Mark Wilson",
+    "createdAt": "2024-02-27T16:45:00",
+    "updatedAt": "2024-02-27T17:30:00",
+    "tags": ["Performance", "Optimization", "Tuning", "Best Practices"],
+    "likes": 267,
+    "views": 3500,
+    "category": "Performance",
+    "isPublished": true,
+    "featuredImageUrl": "https://example.com/images/performance.jpg",
+    "comments": [
+      "These tips really helped our app!",
+      "Could you cover database optimization?"
+    ]
+  },
+  {
+    "id": 19,
+    "userId": 10,
+    "title": "Message Queues in Microservices",
+    "body": "Message queues play a crucial role in building resilient microservices architectures...",
+    "author": "Anna Martinez",
+    "createdAt": "2024-02-26T10:30:00",
+    "updatedAt": "2024-02-26T11:45:00",
+    "tags": ["Microservices", "Message Queues", "RabbitMQ", "Kafka"],
+    "likes": 234,
+    "views": 3200,
+    "category": "Architecture",
+    "isPublished": true,
+    "featuredImageUrl": "https://example.com/images/message-queues.jpg",
+    "comments": [
+      "Great comparison of different queues!",
+      "How about handling failed messages?"
+    ]
+  },
+  {
+    "id": 20,
+    "userId": 10,
+    "title": "Monitoring and Alerting",
+    "body": "Setting up proper monitoring and alerting is essential for maintaining application health...",
+    "author": "Anna Martinez",
+    "createdAt": "2024-02-25T13:15:00",
+    "updatedAt": "2024-02-25T14:30:00",
+    "tags": ["Monitoring", "DevOps", "Alerting", "Observability"],
+    "likes": 178,
+    "views": 2600,
+    "category": "DevOps",
+    "isPublished": true,
+    "featuredImageUrl": "https://example.com/images/monitoring.jpg",
+    "comments": [
+      "Very practical monitoring setup!",
+      "What monitoring tools do you recommend?"
+    ]
+  }
+] 

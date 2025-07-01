@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "title": "Getting Started with Spring Boot",
+    "body": "Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can 'just run'..."
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "title": "RESTful Web Services Best Practices",
+    "body": "When designing RESTful APIs, it's important to follow established conventions and best practices..."
+  },
+  {
+    "id": 3,
+    "userId": 2,
+    "title": "Introduction to Microservices",
+    "body": "Microservices are a software development technique that structures an application as a collection of loosely coupled services..."
+  },
+  {
+    "id": 4,
+    "userId": 2,
+    "title": "Docker for Developers",
+    "body": "Docker containers wrap up software and its dependencies into a standardized unit for software development..."
+  },
+  {
+    "id": 5,
+    "userId": 3,
+    "title": "Understanding JWT Authentication",
+    "body": "JSON Web Tokens are an open standard that defines a compact and self-contained way for securely transmitting information..."
+  },
+  {
+    "id": 6,
+    "userId": 3,
+    "title": "Maven vs Gradle",
+    "body": "Both Maven and Gradle are popular build automation tools. Let's compare their features and use cases..."
+  },
+  {
+    "id": 7,
+    "userId": 4,
+    "title": "Clean Code Principles",
+    "body": "Writing clean code is essential for maintaining and scaling software projects. Here are the key principles..."
+  },
+  {
+    "id": 8,
+    "userId": 4,
+    "title": "Unit Testing with JUnit 5",
+    "body": "JUnit 5 is the next generation of JUnit. It provides powerful features for writing and running tests..."
+  },
+  {
+    "id": 9,
+    "userId": 5,
+    "title": "Git Workflow Strategies",
+    "body": "Choosing the right Git workflow is crucial for team collaboration. Let's explore different strategies..."
+  },
+  {
+    "id": 10,
+    "userId": 5,
+    "title": "API Documentation with Swagger",
+    "body": "Swagger (OpenAPI) provides a powerful set of tools for documenting and testing REST APIs..."
+  },
+  {
+    "id": 11,
+    "userId": 6,
+    "title": "Database Indexing Basics",
+    "body": "Understanding database indexing is crucial for optimizing query performance. Let's cover the fundamentals..."
+  },
+  {
+    "id": 12,
+    "userId": 6,
+    "title": "Caching Strategies",
+    "body": "Implementing effective caching strategies can significantly improve application performance..."
+  },
+  {
+    "id": 13,
+    "userId": 7,
+    "title": "Logging Best Practices",
+    "body": "Proper logging is essential for monitoring and debugging applications in production..."
+  },
+  {
+    "id": 14,
+    "userId": 7,
+    "title": "Error Handling in REST APIs",
+    "body": "Implementing consistent error handling is crucial for creating robust REST APIs..."
+  },
+  {
+    "id": 15,
+    "userId": 8,
+    "title": "CI/CD Pipeline Setup",
+    "body": "Setting up a continuous integration and deployment pipeline is essential for modern software development..."
+  },
+  {
+    "id": 16,
+    "userId": 8,
+    "title": "Cloud Deployment Strategies",
+    "body": "Choosing the right cloud deployment strategy can impact your application's scalability and reliability..."
+  },
+  {
+    "id": 17,
+    "userId": 9,
+    "title": "Security Best Practices",
+    "body": "Implementing security best practices is crucial for protecting your application from vulnerabilities..."
+  },
+  {
+    "id": 18,
+    "userId": 9,
+    "title": "Performance Optimization Tips",
+    "body": "Optimizing application performance requires understanding various aspects of your system..."
+  },
+  {
+    "id": 19,
+    "userId": 10,
+    "title": "Message Queues in Microservices",
+    "body": "Message queues play a crucial role in building resilient microservices architectures..."
+  },
+  {
+    "id": 20,
+    "userId": 10,
+    "title": "Monitoring and Alerting",
+    "body": "Setting up proper monitoring and alerting is essential for maintaining application health..."
+  }
+] 
